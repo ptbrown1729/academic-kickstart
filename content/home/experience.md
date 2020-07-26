@@ -39,10 +39,10 @@ Microscopy development for biophysics applications. Designed and built a three-c
   description = """
 Supervisor: Waseem S. Bakr
 
-Experimental atomic physics. Participated in design and construction of a state-of-the-art lithium-6 quantum gas microscope. Developed novel experimental techniques for measuring dynamical properties of a Fermi-Hubbard system. Experience with optics, optical system design, diode lasers, ultra-high vacuum techniques, analog circuit design, radio frequency electronics, and the machine shop. Performed data analysis and physics simulations using a wide variety of tools including Matlab, Python (numPy, sciPy, etc.), Mathematica, and Linux environments."""
+Experimental atomic physics. Participated in design and construction of a state-of-the-art lithium-6 quantum gas microscope. Developed novel experimental techniques for measuring dynamical properties of a Fermi-Hubbard system. Experience with optics, optical system design, diode lasers, ultra-high vacuum techniques, analog circuit design, radio frequency electronics, and the machine shop. Performed data analysis and physics simulations using a wide variety of tools including Matlab, Python (NumPy, SciPy, etc.), Mathematica, and Linux environments."""
 
 [[experience]]
-  title = "Undegraduate Research Assistant"
+  title = "Undergraduate Research Assistant"
   company = "The University of Chicago"
   company_url = ""
   location = "Chicago, IL"

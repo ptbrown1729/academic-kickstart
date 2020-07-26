@@ -4,3 +4,13 @@
 # Hugo
 resources/
 public/
+
+# JafReb backups
+*.bib.bak
+*.bib.bak.sav
+
+#
+*.md.bak
+
+# emacs save points
+*~
