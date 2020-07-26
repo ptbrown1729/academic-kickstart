@@ -95,12 +95,19 @@ if __name__ == "__main__":
     bib_data = bibtexparser.load(f)
 
   for entry in bib_data.entries:
-    ename = entry['title'].replace(" ", "_").lower()[:12]
+    ename = entry['title'].replace(" ", "_").replace("-", "_").lower()
+    chars = "\\`*{}[]()>#+.!$"
+    for c in chars:
+      ename = ename.replace(c, "")
+    ename = ename.encode("ascii", "ignore").decode("ascii")
 
     # create directory
     dir_path = os.path.join(file_dir, ename)
     if not os.path.exists(dir_path):
       os.mkdir(dir_path)
+    else:
+      print("%s already exists. Not overwriting." % dir_path)
+      continue
 
     # write citation file
     # create bibtex database with one entry
