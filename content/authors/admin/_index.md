@@ -25,9 +25,6 @@ education:
   - course: PhD in Physics
     institution: Princeton University
     year: 2019
-  - course: BA in Mathematics
-    institution: University of Chicago
-    year: 2013
   - course: BS with honors in Physics
     institution: University of Chicago
     year: 2013
