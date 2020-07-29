@@ -1,10 +1,10 @@
 ---
 title: "Multicolor structured illumination microscopy and quantitative control of coherent light with a digital mirror device"
 authors:
-- Brown, Peter T
-- Kruithoff, Rory
-- Seedorf, Gregory J
-- Shepherd, Douglas P
+- Peter T. Brown
+- Rory Kruithoff
+- Gregory J. Seedorf
+- Douglas P. Shepherd
 date: "2020-07-01T00:00:00Z"
 doi: "10.1101/2020.07.27.223941"
 
