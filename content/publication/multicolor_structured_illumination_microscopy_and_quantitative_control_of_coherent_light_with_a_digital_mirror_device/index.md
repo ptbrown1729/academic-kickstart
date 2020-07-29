@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_preprint: 'https://www.biorxiv.org/content/early/2020/07/28/2020.07.27.223941.full.pdf'
+url_preprint: 'https://www.biorxiv.org/content/10.1101/2020.07.27.223941v1'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
