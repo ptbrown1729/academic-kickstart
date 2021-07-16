@@ -1,6 +1,6 @@
 # Instrucions:
 To run website locally, cd to root folder and use
-`hugo server -D'
+`hugo server -D`
 navigate to the link provided to check out the site.
 
 To get working with github.io, first build the static site with hugo
