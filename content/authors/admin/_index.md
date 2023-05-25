@@ -40,6 +40,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ptbrown1729
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UChgvvq17fOPfeORFmMQBMpw
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/ptbrown-phys
@@ -62,10 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a physicist broadly interested in quantitative microscopy and quantum simulation of complex systems. For more information about my research interests and publications, see my CV or Google Scholar page.
+Peter is a physicist broadly interested in quantitative microscopy of complex systems. He earned his PhD from Princeton University in 2019 in the group of <a href="http://ultracold.princeton.edu/">Waseem Bakr</a> where he studied ultracold atomic Fermi gases in optical lattices. At Princeton he built a quantum gas microscope to simulate models of high-temperature superconductivity. Much of his work focused on exploring transport properties of the 2D Fermi-Hubbard model in regimes where exact computational approaches are intractable. These quantum simulation experiments established that the 2D Fermi-Hubbard model exhibits similar charge transport phenomonology to the cuprate strange metals.
 
-
-I first became interested in quantum science while working in the <a href="http://schusterlab.uchicago.edu/">Schuster lab</a> at the University of Chicago, where I earned a bachelor's degree in physics and fulfilled the degree requirements for mathematics in 2013. Next, moving away from fabricated quantum systems, I studied ultracold atoms in optical lattices and quantum simulation in Waseem Bakr's <a href="http://ultracold.princeton.edu/">group</a> at Princeton University. Despite the considerable technological differences between artificial quantum systems and atoms, much of the physics is closely related. Atoms are pristine quantum devices, and we do not even need to fabricate them ourselves. I earned a Ph.D. in physics from Princeton University in 2019, where my research was focused on experimental exploration of static and transport properties of the 2D Fermi-Hubbard model. Our primary tool for these experiments was a quantum gas microscope. While building and running this apparatus, I developed a quantitative understanding of optics and imaging, which are necessities for extracting quantitative information from cold atom experiments.
-
-Currently I am a postdoctoral researcher in Doug Shepherd's group, the <a href="https://shepherdlaboratory.org/">quantitative imaging and inference</a> lab, in the Center for Biological Physics and the Department of Physics at Arizona State University. I am working to develop quantitative microscopy tools for use with super resolution imaging and phase imaging. Past projects include developing a multicolor structured illumination microscope (SIM) with coherent light and a digital mirror device (DMD) and characterizing the hydrodynamic efficiency of the <i>E. coli</i> flagellum using oblique plane lightsheet microscopy. Currently I am developing high-speed, high-fidelity approaches to quantitative phase imaging which may be applied to a variety of interesting questions related to single-cellular swimmers, motility, and colloidal physics.
+Currently he is a postdoc in Doug Shepherd's group, the <a href="https://shepherdlaboratory.org/">quantitative imaging and inference</a> lab, in the Center for Biological Physics and the Department of Physics at Arizona State University. Here, Peter has used his expertise in optics and computational techniques to develop new tools for bio-imaging. Past projects include developing a multicolor structured illumination microscope (SIM) with coherent light and a digital mirror device (DMD) and characterizing the hydrodynamic efficiency of the <i>E. coli</i> flagellum using oblique plane lightsheet microscopy. His interests include super-resolution imaging using structured light, high-speed 3D quantitative phase imaging, and computational imaging. Currently he is developing high-speed, high-fidelity approaches to quantitative phase imaging which may be applied to a variety of interesting questions related to single-cellular swimmers in complex environments, motility, and colloidal physics. A major theme which runs through both areas of his work is the role of fluctuations in microscopic systems. For more information about his research interests and publications, see his CV or Google Scholar page.
 
