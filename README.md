@@ -1,11 +1,11 @@
-# Instrucions:
-To run website locally, cd to root folder and use
+# Instructions:
+To run website locally, cd to root folder and run
 `hugo server -D'
-navigate to the link provided to check out the site.
+This command will output the address the webserver is hosting the site at.
 
 To get working with github.io, first build the static site with hugo
 `hugo -D`
-the output is in the public directory. Copy this to the github.io repository and commit that.
+the output is in the `public` directory. Copy this to the github.io repository and commit that.
 
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 

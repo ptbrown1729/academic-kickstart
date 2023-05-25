@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peter T. Brown
+title: Peter T. Brown, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -20,14 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests quantitative imaging, quantum simulation, and ultracold Fermions in optical lattices
 
-education:
-  courses:
-  - course: PhD in Physics
-    institution: Princeton University
-    year: 2019
-  - course: BS with honors in Physics
-    institution: University of Chicago
-    year: 2013
+#education:
+#  courses:
+#  - course:
+#    institution:
+#    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,15 +34,18 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ptbrown1729
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GU8NSzEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ptbrown1729
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/ptbrown-phys
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ptbrown1729
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,10 +62,10 @@ user_groups:
 - Visitors
 ---
 
-I am a physicist broadly interested in quantitative microscopy and quantum simulation of complex systems. My research interests include super resolution microscopy, structured illumination microscopy, quantum gas microscopy, atomic physics, strongly correlated matter, many-body physics, Fermi gases, Fermions in optical lattices, quantum magnetism, low-dimensional quantum systems, transport properties of strongly correlated systems, Hubbard physics, Rydberg atoms, and long-range interactions in quantum gases.
+I am a physicist broadly interested in quantitative microscopy and quantum simulation of complex systems. For more information about my research interests and publications, see my CV or Google Scholar page.
 
 
-I first became interested in quantum science while working in the <a href="http://schusterlab.uchicago.edu/">Schuster lab</a> at the University of Chicago, where I earned a bachelor's degree in physics and mathematics in 2013. Next, moving away from fabricated quantum systems, I studied ultracold atoms in optical lattices and quantum simulation in Waseem Bakr's <a href="http://ultracold.princeton.edu/">group</a> at Princeton University. Despite the considerable technological differences between artificial quantum systems and atoms, much of the physics is closely related. Atoms are pristine quantum devices, and we do not even need to fabricate them ourselves. I earned a Ph.D. in physics from Princeton University in 2019, where my research was focused on experimental exploration of static and transport properties of the 2D Fermi-Hubbard model. Our primary tool for these experiments was a quantum gas microscope. While building and running this apparatus, I developed a quantitative understanding of optics and imaging, which are necessities for extracting quantitative information from cold atom experiments.
+I first became interested in quantum science while working in the <a href="http://schusterlab.uchicago.edu/">Schuster lab</a> at the University of Chicago, where I earned a bachelor's degree in physics and fulfilled the degree requirements for mathematics in 2013. Next, moving away from fabricated quantum systems, I studied ultracold atoms in optical lattices and quantum simulation in Waseem Bakr's <a href="http://ultracold.princeton.edu/">group</a> at Princeton University. Despite the considerable technological differences between artificial quantum systems and atoms, much of the physics is closely related. Atoms are pristine quantum devices, and we do not even need to fabricate them ourselves. I earned a Ph.D. in physics from Princeton University in 2019, where my research was focused on experimental exploration of static and transport properties of the 2D Fermi-Hubbard model. Our primary tool for these experiments was a quantum gas microscope. While building and running this apparatus, I developed a quantitative understanding of optics and imaging, which are necessities for extracting quantitative information from cold atom experiments.
 
-Most recently I have joined the <a href="https://shepherdlaboratory.org/">quantitative imaging and inference</a> lab in the Center for Biological Physics at Arizona State University where I am working to develop quantitative microscopy tools for use with super resolution imaging. I am currently working to develop a multicolor structured illumination microscope (SIM) with coherent light and a digital mirror device (DMD).
+Currently I am a postdoctoral researcher in Doug Shepherd's group, the <a href="https://shepherdlaboratory.org/">quantitative imaging and inference</a> lab, in the Center for Biological Physics and the Department of Physics at Arizona State University. I am working to develop quantitative microscopy tools for use with super resolution imaging and phase imaging. Past projects include developing a multicolor structured illumination microscope (SIM) with coherent light and a digital mirror device (DMD) and characterizing the hydrodynamic efficiency of the <i>E. coli</i> flagellum using oblique plane lightsheet microscopy. Currently I am developing high-speed, high-fidelity approaches to quantitative phase imaging which may be applied to a variety of interesting questions related to single-cellular swimmers, motility, and colloidal physics.
 
